@@ -1,3 +1,8 @@
+1.2.0 / 2014-05-13
+==================
+- Add support for multi-dimensional arrays
+- Revise tests so both conversion methods are displayed in the same record
+
 1.1.0 / 2014-01-09
 ==================
 - Added: optional temporary override of variable prefix
